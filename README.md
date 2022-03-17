@@ -12,7 +12,7 @@ Original App Design Project - README Template
 
 ## Overview
 ### Description
-The concept of this app is to provide people who have anxiety a place of relief. Our app design will provide the user with tickets throughout the day, and locations if they need them. The user will be able to create an account, declare the main buildings that they use, and choose what part of campus they use.
+The concept of this app is to provide students of Alabama A&M different ticket options. Our app design will provide the user with tickets throughout the day, and locations if they need them. The user will be able to create an account, declare the main buildings that they use, and choose what part of campus they use.
 
 ### App Evaluation
 [Evaluation of your app across the following attributes]
