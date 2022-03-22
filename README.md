@@ -83,9 +83,42 @@ The concept of this app is to provide students of Alabama A&M different ticket o
 ## Schema 
 [This section will be completed in Unit 9]
 ### Models
-[Add table of models]
+Post 
+| Property | Type | Description |
+|--------- | -----| ------------ |
+| studentId | String | Gives student option to enter their student ID |
+| loginId | String | Student has to login to get further assistance |
+| ticketNumber | Integer | Ticket that directions student to right place | 
+| departmentId | String | Information on specific department |
+| createdAt | String | Date when ticket was created |
+| mapId | String | Location of different buildings |
+| ticketInfo | String | Description of different department |
+
+
+
+
+
+
+
 ### Networking
-- [Add list of network requests by screen ]
-- [Create basic snippets for each Parse network request]
-- [OPTIONAL: List endpoints if using existing API such as Yelp]
+- Login Screen
+  - Create/POST - Input Login information
+  - Create/POST - create a login
+- Account Page
+  - Update/PUT - name, A#, email, phonenumer
+  - Update/PUT - update user profile image 
+- Map
+  - Create/POST - click on building information
+- Department 
+- Create/Post - dropdown box for each department 
+- Info Page
+   - Create/Get - all department information,
+   - Create/Post - submit a ticket buttion
+- Submit a Ticket 
+  - Create/Post - creating a submission for a ticket 
+  - Create/Post - click submit buttion
+- Your Ticket
+  - Read/Get - pending ticket info
+  - Read/Get - resolved ticket info
+
 https://hackmd.io/da4gNHuISymqRv1dMx6w1Q
