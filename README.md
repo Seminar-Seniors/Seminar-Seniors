@@ -122,3 +122,5 @@ Post
   - Read/Get - resolved ticket info
 
 https://hackmd.io/da4gNHuISymqRv1dMx6w1Q
+
+https://i.imgur.com/wVe4fCS.gif
