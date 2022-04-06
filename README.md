@@ -29,10 +29,10 @@ The concept of this app is to provide students of Alabama A&M different ticket o
 
 **For , we will identify the must-haves of the app.**
 
-* User can create a new account
-* User can login
-* User can choose which ticket they would need
-* User can locate the building that they need by using the app
+- [X] User can create a new account
+- [X] User can login
+- [ ] User can choose which ticket they would need
+- [ ] User can locate the building that they need by using the app
 
 
 **Optional Nice-to-have Stories**
