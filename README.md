@@ -31,6 +31,9 @@ The concept of this app is to provide students of Alabama A&M different ticket o
 
 - [X] User can create a new account
 - [X] User can login
+- [X] Home Screen is styled 
+- [X] Navigation bar is created
+- [ ] Account is personalized
 - [ ] User can choose which ticket they would need
 - [ ] User can locate the building that they need by using the app
 
